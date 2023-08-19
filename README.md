@@ -20,8 +20,7 @@ Supply chains involve complex data and processes that require efficient data ret
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/supply-chain-langchain.git
-   cd supply-chain-langchain
+   git clone https://github.com/RahulArora2000/BigQuery-Tables-Analysis-with-Visuals-LangChain.git
    ```
 
 2. Install the required libraries and dependencies:
